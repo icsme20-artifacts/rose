@@ -52,3 +52,8 @@ List of Repositories
 --------------------
 
 In the file ``list-of-repositories.pdf``, we provide a list of all the repositories for which we have sent emails to corresponding developers. In addition to listing the repository's name, we also indicate whether we have selected the repository based on previous work of Liebig et al. (ICSE 2010) or based on our own analysis of trending C repositories on GitHub.
+
+
+R
+-
+The R repsoitory comprises all R scripts and correpsonding csv files we used to analyze the data and create the figures in our paper.
