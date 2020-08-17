@@ -56,4 +56,5 @@ In the file ``list-of-repositories.pdf``, we provide a list of all the repositor
 
 R
 -
-The R repsoitory comprises all R scripts and correpsonding csv files we used to analyze the data and create the figures in our paper.
+
+The R archive comprises all R scripts and corresponding csv files we used to analyze the data and create the figures in our paper.
